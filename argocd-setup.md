@@ -39,7 +39,7 @@
    - Open AWS Cloud Shell or AWS CLI.
    - Execute the command:
      ```
-     aws eks update-kubeconfig --name shack-eks --region ap-south-1
+     aws eks update-kubeconfig --name devops-eks --region us-east-2
      ```
    - Replace "shack-eks" with the name of your EKS cluster and "ap-south-1" with the appropriate region if different.
 
